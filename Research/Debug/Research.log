@@ -1,0 +1,6 @@
+﻿  Test.cpp
+c:\users\astra\source\repos\research\research\test.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\astra\source\repos\research\research\test.cpp(66): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+c:\users\astra\source\repos\research\research\test.cpp(80): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+c:\users\astra\source\repos\research\research\test.cpp(88): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+  Research.vcxproj -> C:\Users\Astra\source\repos\Research\Debug\Research.exe
